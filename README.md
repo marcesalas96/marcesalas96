@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Marcelo!</h1>
 <h3 align="center">Soy una persona en constante evolución, que busca siempre aprender cosas nuevas. Futuro FullStack Developer, curioso y autodidacta.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Club de autos de coleccion de Salta](https://github.com/marcesalas96/proyectoCACS)
+- 🔭 Actualmente estoy trabajando en varias cosas a la vez!
 
 - 🌱 Estoy aprendiendo **JavaScript, ReactJs, Ux/Ui, Python**
 
@@ -9,7 +9,7 @@
 
 - 📫 Como contactarme? **marcesalas1996@gmail.com**
 
-- ⚡ Dato curioso **Toda mi vida fui Chef, asi que se podria decir que soy un Chef-digital**
+- ⚡ Dato curioso **Eterno curioso, amante de aprender cosas nuevas siempre**
 
 <h3 align="left">Contactame!</h3>
 <p align="left">
